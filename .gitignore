@@ -1,0 +1,17 @@
+node_modules/
+*.log
+.DS_Store
+.env
+.idea/
+.vscode/
+.tooling/
+
+backend/dist/
+backend/src/generated/
+
+mobile/android/.gradle/
+mobile/android/app/build/
+mobile/android/build/
+mobile/ios/Pods/
+mobile/ios/build/
+mobile/.metro-health-check*
