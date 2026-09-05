@@ -1,6 +1,6 @@
 # RelayPay
 
-RelayPay is a for offline, application-layer-secured payment
+RelayPay is a system for offline, application-layer-secured payment
 messages relayed over Bluetooth Low Energy. It uses a mock backend ledger only;
 it is not connected to UPI, NPCI, a bank, or any real payment service.
 
